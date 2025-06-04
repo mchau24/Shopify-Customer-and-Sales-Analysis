@@ -25,4 +25,9 @@ This project aims to analyse Shopify sales data using Power BI to uncover meanin
 ## 3. Data Overview
 This dashboard is based on a simulated dataset generated from a real Shopify store, covering a one-week period from 18th to 24th March 2025. The details of each field are included in the Excel file.
 
-## 4. Dashboard 
+## 4. Dashboard
+The complete dashboard and insights are included in both the Power BI (.pbix) file and the exported PDF format. It includes interactive filters for measure, county, and product type, along with a dedicated insights section summarising key observations and recommended actions.
+
+A screenshot is given below:
+
+![image](https://github.com/user-attachments/assets/781457a6-4fbb-4d96-988b-7bb93902f34a)
