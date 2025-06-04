@@ -22,4 +22,7 @@ This project aims to analyse Shopify sales data using Power BI to uncover meanin
     - Repeat rate: percentage of customers who return to make another purchase.
     - Purchase frequency: how many times customers place orders, on average.
 
+## 3. Data Overview
+This dashboard is based on a simulated dataset generated from a real Shopify store, covering a one-week period from 18th to 24th March 2025. The details of each field are included in the Excel file.
 
+## 4. Dashboard 
